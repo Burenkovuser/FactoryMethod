@@ -8,9 +8,7 @@
 
 #import "AppDelegate.h"
 #import "ProductGenerator.h"
-#import "Product.h"
-#import "Toy.h"
-#import "Dress.h"
+
 
 @interface AppDelegate ()
 
